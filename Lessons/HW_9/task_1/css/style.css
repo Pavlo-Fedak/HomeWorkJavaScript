@@ -1,0 +1,9 @@
+.wrap {
+    margin-bottom: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.collapse {
+    background-color: darkcyan;
+}

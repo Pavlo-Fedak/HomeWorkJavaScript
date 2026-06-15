@@ -1,0 +1,23 @@
+.course {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.title {
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.month,
+.hour {
+    display: inline-block;
+    width: 100px;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.modules {
+    border: 1px solid blue;
+    margin-top: 10px;
+}
