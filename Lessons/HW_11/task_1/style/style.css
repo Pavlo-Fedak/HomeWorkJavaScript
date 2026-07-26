@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#carts {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.cart-container {
+    background-color: white;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.product-container {
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 15px;
+    white-space: pre-line;
+}
+
+.product-container img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+    margin-top: 10px;
+}
